@@ -55,6 +55,17 @@ gemini-story-api
 
 Install Docker → Upload files → Build & run container → Open port 8001.
 
+## 🧠 Technical Architecture
+
+## 📘 Architecture Overview
+Below is the architecture representing:
+
+- FastApi Powered by Gemini
+- Docker container orchestration
+- AWS EC2 deployment layer
+<img width="2816" height="1536" alt="image" src="https://github.com/user-attachments/assets/443891b2-de34-4f09-8ca9-7b4fd10587bb" />
+
+
 ## 🌍 Live Endpoint
 
 http://13.51.196.70:8002/docs
